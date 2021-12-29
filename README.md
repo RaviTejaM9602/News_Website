@@ -5,7 +5,7 @@ Building a News Website using Grid functionality
 
 > One paragraph statement about the project.
 
-![screenshot]()
+![screenshot](./image_resources/Website/newgrid_website.jpg)
 
 Additional description about the project and its features.
 
