@@ -5,7 +5,7 @@ Building a News Website using Grid functionality
 
 > One paragraph statement about the project.
 
-![screenshot](./image_resources/Website/newgrid_website.jpg)
+![screenshot](.image_resources\Website\newgrid_website.jpg)
 
 Additional description about the project and its features.
 
@@ -18,7 +18,7 @@ Using Grid etc
 ## Live Demo
 
 
-[Live Demo Link](https://github.com/RaviTejaM9602/News_Website)
+[Live Demo Link](https://ravitejam9602.github.io/News_Website)
 
 
 
