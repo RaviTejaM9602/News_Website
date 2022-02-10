@@ -3,9 +3,15 @@ Building a News Website using Grid functionality
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-> One paragraph statement about the project.
+> This project build with HTML,CSS and this page consist of all list of categories which exist in news papers and news website. With the help of CSS Grid  and CSS LESS Website has been developed.
 
-![screenshot](./image_resources\Website\newgrid_website.jpg)
+## Live Server
+
+In the following link, you can view (Coming Soon)).
+
+## Screenshot
+
+![News Website](./image_resources/News_Website.png)
 
 Additional description about the project and its features.
 
@@ -14,13 +20,8 @@ Additional description about the project and its features.
 HTML and CSS
 Using Grid etc
 
-
 ## Live Demo
-
-
 [Live Demo Link](https://ravitejam9602.github.io/News_Website)
-
-
 
 ## Getting Started
 
@@ -32,8 +33,29 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 Grid, Flexbox, Images (Concepts in CSS)
+
 ### Setup
-Linter Setup 
+To get a local copy follow these steps:
+
+1. Clone the repo by typing on your terminal
+
+```
+git clone git@github.com:RaviTejaM9602/News_Website.git
+```
+
+2. Access the repo with
+
+```
+cd Conference
+```
+
+3. Clone the Repo or Download the Zip file
+Run the live server or simply open index.html with your browser.
+
+```
+code .
+```
+
 
 
 ## Authors
